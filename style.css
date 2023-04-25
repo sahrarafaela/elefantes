@@ -1,0 +1,20 @@
+body{
+    background-color: rgba(128, 128, 128, 0.308);
+    margin: 100px;
+}
+h2{
+    color: rgb(78, 76, 76);
+    font-size: 35px;
+}
+img{
+    width: 400px;
+    height: 300px;
+}
+p{
+    color: rgb(78, 76, 76);
+    font-size: 30px;
+}
+li{
+    color: rgb(78, 76, 76);
+    font-size: 25px;
+}
